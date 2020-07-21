@@ -1,0 +1,12 @@
+C:\Users\MMadiba\source\repos\MarsRoverTechChallenge\MarsRoverTechChallenge\bin\Debug\netcoreapp3.1\MarsRoverTechChallenge.exe
+C:\Users\MMadiba\source\repos\MarsRoverTechChallenge\MarsRoverTechChallenge\bin\Debug\netcoreapp3.1\MarsRoverTechChallenge.deps.json
+C:\Users\MMadiba\source\repos\MarsRoverTechChallenge\MarsRoverTechChallenge\bin\Debug\netcoreapp3.1\MarsRoverTechChallenge.runtimeconfig.json
+C:\Users\MMadiba\source\repos\MarsRoverTechChallenge\MarsRoverTechChallenge\bin\Debug\netcoreapp3.1\MarsRoverTechChallenge.runtimeconfig.dev.json
+C:\Users\MMadiba\source\repos\MarsRoverTechChallenge\MarsRoverTechChallenge\bin\Debug\netcoreapp3.1\MarsRoverTechChallenge.dll
+C:\Users\MMadiba\source\repos\MarsRoverTechChallenge\MarsRoverTechChallenge\bin\Debug\netcoreapp3.1\MarsRoverTechChallenge.pdb
+C:\Users\MMadiba\source\repos\MarsRoverTechChallenge\MarsRoverTechChallenge\obj\Debug\netcoreapp3.1\MarsRoverTechChallenge.AssemblyInfoInputs.cache
+C:\Users\MMadiba\source\repos\MarsRoverTechChallenge\MarsRoverTechChallenge\obj\Debug\netcoreapp3.1\MarsRoverTechChallenge.AssemblyInfo.cs
+C:\Users\MMadiba\source\repos\MarsRoverTechChallenge\MarsRoverTechChallenge\obj\Debug\netcoreapp3.1\MarsRoverTechChallenge.csproj.CoreCompileInputs.cache
+C:\Users\MMadiba\source\repos\MarsRoverTechChallenge\MarsRoverTechChallenge\obj\Debug\netcoreapp3.1\MarsRoverTechChallenge.dll
+C:\Users\MMadiba\source\repos\MarsRoverTechChallenge\MarsRoverTechChallenge\obj\Debug\netcoreapp3.1\MarsRoverTechChallenge.pdb
+C:\Users\MMadiba\source\repos\MarsRoverTechChallenge\MarsRoverTechChallenge\obj\Debug\netcoreapp3.1\MarsRoverTechChallenge.genruntimeconfig.cache
