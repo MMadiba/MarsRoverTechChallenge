@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1uk0Ed+PGwglBObSfefkAm3UZjgSfcIvr7vuj20+jwxr/rZAExk0BCg+bg6fgUOXJ3iTBkh8r/lkbCt7bI+m9w==",
+  "dgSpecHash": "hSuKmTEt928w+vMWmGezXb8Ja+iN5X0kTfPERzoEJTmDJj6v2Fzu8CWmEwS4A5ZFtocdgRNAmV+nqos7CcjjGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MMadiba\\source\\repos\\MarsRoverTechChallenge\\MarsRoverTechChallengeTests\\MarsRoverTechChallengeTests.csproj",
+  "projectFilePath": "C:\\Users\\MMadiba\\Documents\\GitHub\\MarsRoverTechChallenge\\MarsRoverTechChallengeTests\\MarsRoverTechChallengeTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MMadiba\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\MMadiba\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MMadiba\\source\\repos\\MarsRoverTechChallenge\\MarsRoverTechChallengeTests\\MarsRoverTechChallengeTests.csproj": {}
+    "C:\\Users\\MMadiba\\Documents\\GitHub\\MarsRoverTechChallenge\\MarsRoverTechChallengeTests\\MarsRoverTechChallengeTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MMadiba\\source\\repos\\MarsRoverTechChallenge\\MarsRoverTechChallengeTests\\MarsRoverTechChallengeTests.csproj": {
+    "C:\\Users\\MMadiba\\Documents\\GitHub\\MarsRoverTechChallenge\\MarsRoverTechChallengeTests\\MarsRoverTechChallengeTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MMadiba\\source\\repos\\MarsRoverTechChallenge\\MarsRoverTechChallengeTests\\MarsRoverTechChallengeTests.csproj",
+        "projectUniqueName": "C:\\Users\\MMadiba\\Documents\\GitHub\\MarsRoverTechChallenge\\MarsRoverTechChallengeTests\\MarsRoverTechChallengeTests.csproj",
         "projectName": "MarsRoverTechChallengeTests",
-        "projectPath": "C:\\Users\\MMadiba\\source\\repos\\MarsRoverTechChallenge\\MarsRoverTechChallengeTests\\MarsRoverTechChallengeTests.csproj",
+        "projectPath": "C:\\Users\\MMadiba\\Documents\\GitHub\\MarsRoverTechChallenge\\MarsRoverTechChallengeTests\\MarsRoverTechChallengeTests.csproj",
         "packagesPath": "C:\\Users\\MMadiba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MMadiba\\source\\repos\\MarsRoverTechChallenge\\MarsRoverTechChallengeTests\\obj\\",
+        "outputPath": "C:\\Users\\MMadiba\\Documents\\GitHub\\MarsRoverTechChallenge\\MarsRoverTechChallengeTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\MMadiba\\source\\repos\\MarsRoverTechChallenge\\MarsRoverTechChallenge\\MarsRoverTechChallenge.csproj": {
-                "projectPath": "C:\\Users\\MMadiba\\source\\repos\\MarsRoverTechChallenge\\MarsRoverTechChallenge\\MarsRoverTechChallenge.csproj"
+              "C:\\Users\\MMadiba\\Documents\\GitHub\\MarsRoverTechChallenge\\MarsRoverTechChallenge\\MarsRoverTechChallenge.csproj": {
+                "projectPath": "C:\\Users\\MMadiba\\Documents\\GitHub\\MarsRoverTechChallenge\\MarsRoverTechChallenge\\MarsRoverTechChallenge.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\MMadiba\\source\\repos\\MarsRoverTechChallenge\\MarsRoverTechChallenge\\MarsRoverTechChallenge.csproj": {
+    "C:\\Users\\MMadiba\\Documents\\GitHub\\MarsRoverTechChallenge\\MarsRoverTechChallenge\\MarsRoverTechChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MMadiba\\source\\repos\\MarsRoverTechChallenge\\MarsRoverTechChallenge\\MarsRoverTechChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\MMadiba\\Documents\\GitHub\\MarsRoverTechChallenge\\MarsRoverTechChallenge\\MarsRoverTechChallenge.csproj",
         "projectName": "MarsRoverTechChallenge",
-        "projectPath": "C:\\Users\\MMadiba\\source\\repos\\MarsRoverTechChallenge\\MarsRoverTechChallenge\\MarsRoverTechChallenge.csproj",
+        "projectPath": "C:\\Users\\MMadiba\\Documents\\GitHub\\MarsRoverTechChallenge\\MarsRoverTechChallenge\\MarsRoverTechChallenge.csproj",
         "packagesPath": "C:\\Users\\MMadiba\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MMadiba\\source\\repos\\MarsRoverTechChallenge\\MarsRoverTechChallenge\\obj\\",
+        "outputPath": "C:\\Users\\MMadiba\\Documents\\GitHub\\MarsRoverTechChallenge\\MarsRoverTechChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
